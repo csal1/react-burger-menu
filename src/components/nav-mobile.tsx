@@ -26,7 +26,6 @@ export const NavMobile = () => {
           >
             <ul className="grid gap-2">
               {routes.map((route) => {
-                const { Icon } = route;
 
                 return (
                   <motion.li
@@ -40,7 +39,6 @@ export const NavMobile = () => {
                       href={route.href}
                     >
                       <span className="flex gap-1 text-lg">{route.title}</span>
-                      <Icon className="text-xl" />
                     </a>
                   </motion.li>
                 );
