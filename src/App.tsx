@@ -14,6 +14,7 @@ function App() {
         Graduated 2024 with a Degree of Bachelor of Science with a major in Information Architecture specialization Frontend Web Developer, 
         I'm now poised to bring innovative solutions to the digital landscape.
         </p>
+        
 <div className="icons-list">
   <SocialMediaIcons/>
 </div>

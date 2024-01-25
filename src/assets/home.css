@@ -1,3 +1,6 @@
 .headliner h1{
     color: rgb(163, 200, 112);
 }
+.iconlist a{
+    margin-right: 20px;
+}
