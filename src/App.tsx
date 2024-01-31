@@ -7,14 +7,14 @@ function App() {
       <Topbar />
       <div className="headliner space-y-5 text-left gap-5">
         <h1 className="lg:text-4xl text-2xl  font-bold">
-          Hi! I'm Cajsa Lindekrans<br/>
+          Welcome!<br/>
         </h1>
-        <h1 className="lg:text-5xl text-2xl font-bold">Frontend Developer</h1>
+        <h1 className="lg:text-5xl text-2xl font-bold">I'm Cajsa Lindekrans</h1>
         <p className="max-w-lg text-sm leading-6">
-        Graduated 2024 with a Degree of Bachelor of Science with a major in Information Architecture specialization Frontend Web Developer, 
+        Graduated 2024 with a Degree of Bachelor of Science with a major in Information Architecture specialization <strong>Frontend Web Developer</strong>, 
         I'm now poised to bring innovative solutions to the digital landscape.
         </p>
-        
+
 <div className="icons-list">
   <SocialMediaIcons/>
 </div>
